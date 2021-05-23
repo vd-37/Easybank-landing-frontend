@@ -197,7 +197,7 @@ footer{
     color: white;
 }
 /* media query */
-@media (max-width: 1024px) {
+@media (min-width:769px ) and (max-width: 1024px) {
     /* desktop-nav */
     html,body{
         overflow-x: hidden;
