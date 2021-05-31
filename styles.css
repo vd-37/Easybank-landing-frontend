@@ -221,6 +221,19 @@ footer{
         flex-basis: 40%;
     }
 }
+
+@media (min-width:769px ) and (max-width: 890px){
+    .navbar_btn{
+        font-size: 90%;
+    }
+    .nav-item{
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        font-size: 90%;
+    }
+
+}
+
 @media (max-width: 768px) {
     .padding{
         padding-left: 4em;
